@@ -1,0 +1,8 @@
+{
+  "id": "OSS-GO-GIN-TP",
+  "lang": "go",
+  "mode": "tp",
+  "min_types": {
+    "ssrf": 1
+  }
+}

@@ -2,8 +2,7 @@
   "id": "OSS-JAVA-SPRING-TP",
   "lang": "java",
   "mode": "tp",
-  "triage": "validation-framework-oracle-v1",
   "min_types": {
-    "ssrf": 1
+    "xss": 1
   }
 }

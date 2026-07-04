@@ -1,0 +1,8 @@
+{
+  "id": "OSS-JS-EXPRESS-MW-TP",
+  "lang": "js",
+  "mode": "tp",
+  "min_types": {
+    "command_injection": 1
+  }
+}
