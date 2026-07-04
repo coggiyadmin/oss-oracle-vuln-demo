@@ -1,0 +1,7 @@
+{
+  "id": "OSS-JS-EXPRESS-CLEAN",
+  "lang": "js",
+  "mode": "clean",
+  "triage": "validation-framework-oracle-v1",
+  "max_findings": 0
+}

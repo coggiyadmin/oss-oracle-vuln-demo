@@ -1,0 +1,9 @@
+{
+  "id": "OSS-PY-FLASK-TP",
+  "lang": "python",
+  "mode": "tp",
+  "triage": "validation-framework-oracle-v1",
+  "min_types": {
+    "command_injection": 1
+  }
+}

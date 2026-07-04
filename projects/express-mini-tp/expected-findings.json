@@ -1,0 +1,9 @@
+{
+  "id": "OSS-JS-EXPRESS-TP",
+  "lang": "js",
+  "mode": "tp",
+  "triage": "validation-framework-oracle-v1",
+  "min_types": {
+    "xss": 1
+  }
+}

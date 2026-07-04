@@ -1,0 +1,9 @@
+{
+  "id": "OSS-GO-MINI-TP",
+  "lang": "go",
+  "mode": "tp",
+  "triage": "validation-framework-oracle-v1",
+  "min_types": {
+    "command_injection": 1
+  }
+}

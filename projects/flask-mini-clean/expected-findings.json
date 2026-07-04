@@ -1,0 +1,7 @@
+{
+  "id": "OSS-PY-FLASK-CLEAN",
+  "lang": "python",
+  "mode": "clean",
+  "triage": "validation-framework-oracle-v1",
+  "max_findings": 0
+}
